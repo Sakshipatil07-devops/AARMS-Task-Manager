@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "task_app:app"
